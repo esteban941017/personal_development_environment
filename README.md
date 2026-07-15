@@ -3,6 +3,7 @@
 ## 📋 About
 
 The following repository includes my personal and suggested configuration of a professional development environment.
+Translated and adjusted from original repository by [FullCycle](https://github.com/argentinaluiz/ambiente-dev-produtivo)
 
 ## 🎯 Sections
 
