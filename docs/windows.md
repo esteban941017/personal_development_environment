@@ -142,7 +142,7 @@ After installation is complete, log in with your Docker's account and follow the
 
 #### Activate Docker in WSL distribution
 
-Access Docker Desktop's panel, click on the gear and then navigate to `Resources -> WSL Integration` and enable the Linus distribution to be used with Docker, then click on `Apply & Restart`
+Access Docker Desktop's panel, click on the gear and then navigate to `Resources -> WSL Integration` and enable the Linux distribution to be used with Docker, then click on `Apply & Restart`
 
 ---
 
