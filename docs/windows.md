@@ -350,39 +350,13 @@ When using VSCode Insiders, some extensions (specially from Microsoft) can reque
 
 ### 🔤 Typography (Font-family)
 
-I use [JetBrains Mono](https://www.jetbrains.com/lp/mono/) as default.
-
-Install it on the computer and activate it on VSCode adjusting `editor.fontFamily` option.
+I use Cascadia Code as default.
 
 ```json
-"editor.fontFamily": "\"JetBrains Mono\", 'Courier New', monospace",
+"editor.fontFamily": "Cascadia Code, monospace",
 ```
 
 This property allows other fallback fonts if the first one is not found.
-
-### 📦 Suggested extensions
-
-To install the extensions, you should run the following script:
-
-**VSCode Insiders (Suggested):**
-
-```bash
-wget https://raw.githubusercontent.com/argentinaluiz/my-vscode-settings/main/vscode-settings/extensions.txt
-wget -O - https://raw.githubusercontent.com/argentinaluiz/my-vscode-settings/main/install-extensions-insiders.sh | bash
-```
-
-**VSCode:**
-
-```bash
-wget https://raw.githubusercontent.com/argentinaluiz/my-vscode-settings/main/vscode-settings/extensions.txt
-wget -O - https://raw.githubusercontent.com/argentinaluiz/my-vscode-settings/main/install-extensions.sh | bash
-```
-
-**💡 Tip:** `extensions.txt` can be edited to remove unwanted extensions before running the script.
-
-**ℹ️ Note:** Some extensions will be disabled after installation, as they are used only in specific scenarios. They can be enabled on the **extensions** tab.
-
-**📌 Suggestions:** The complete list is on `extensions.txt` file. It has multiple extensions. Below are highlighted the **top or essential suggestions**
 
 #### 🤖 GitHub Copilot - Free AI
 
