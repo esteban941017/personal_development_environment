@@ -124,13 +124,9 @@ To correctly display icons on Fish/Starship:
 1. Open Windows Terminal → Settings
 2. Select **Open JSON File**
 
-**Example File:** [windows-terminal-settings-example.json](../config/windows-terminal-settings-example.json)
-
 - Multiple Themes already configured
 - Useful Keybindings
 - Optimized default settings
-
-⚠️ **Important:** Keep your own profile GUIDs when copying the example
 
 ---
 
